@@ -204,8 +204,7 @@ class getchannels:
 
         # write output
         self.__write_output_file()
-        #self.__write_output_file()
-#        self.__write_output_std()
+
 
         return
 
